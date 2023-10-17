@@ -4,7 +4,7 @@ import Home from "./components/Home"
 
 function App() {
   return (
-    <div className='h-screen bg-gradient-to-r from-cyan-500 to-blue-500'>
+    <div>
       <Navbar/>
       <Home/>
 
